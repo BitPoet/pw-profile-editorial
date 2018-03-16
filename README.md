@@ -6,7 +6,7 @@ This blog profile is built upon kongondo's [blog module](https://modules.process
 
 The target group for this site profile are travel bloggers that want to have a feature rich layout and the option to list and read posts in ascending chronological order (something that most blog designs, no matter on which platform, are sorely lacking).
 
-![Screenshot](https://bitpoet.github.io/img/editorial-home.png)
+![Screenshot](https://bitpoet.github.io/img/editorial-home.jpg)
 
 ## Installation
 
