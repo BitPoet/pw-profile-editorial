@@ -7,6 +7,6 @@
 						</header>
 						<p><?= $pages->get('/about/')->blog_body ?></p>
 					</div>
-					<span class="image object"><img src="<?= $blogSettings->blog_header_image->url ?>"" alt=""></span>
+					<span class="image object"><img src="<?= $blogSettings->blog_header_image->url ?>" alt=""></span>
 				</section>
 
