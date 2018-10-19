@@ -18,7 +18,7 @@ To install it, download a fresh copy of ProcessWire from the [download page](htt
 
 Download a [zipped copy of this repository](https://github.com/BitPoet/pw-profile-editorial/archive/master.zip) and extract the site-blog-editorial folder into the ProcessWire installation's root folder.
 
-Point your web browser at the url of your installation and follow the wizard. Select "Strongly Typed Travel Blog Template (Responsive)" when prompted to select a profile.
+Point your web browser at the url of your installation and follow the wizard. Select "Editorial Travel Blog Template (Responsive)" when prompted to select a profile.
 
 ## Setting up your blog
 
